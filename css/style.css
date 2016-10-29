@@ -1,0 +1,26 @@
+body {
+  font-family: "Arial";
+  background-color: black;
+}
+
+#main {
+  background-color: #85aeeb;
+  color: white;
+}
+
+#quote-content {
+  font-style: italic;
+}
+
+#quote-title {
+  text-align: right;
+  color: #888888;
+}
+
+#quoteButton {
+  color: black;
+}
+
+#tweetIt {
+  color: black;
+}
